@@ -11,7 +11,7 @@
             "title": "패키지",
             "list": [
                 {
-                    "src": "images/package1.jpg", 
+                    "src": "https://img.cgv.co.kr/GiftStore/Product/Pc/List/17170520996180.jpg", 
                     "alt": "package1", 
                     "text": "우리 패키지", 
                     "price": "62,000"
@@ -34,7 +34,7 @@
             "title": "영화관람권",
             "list": [
                 {
-                    "src": "images/ticket1.jpg", 
+                    "src": "https://img.cgv.co.kr/GiftStore/Product/Pc/List/17313091696130.jpg", 
                     "alt": "movieticket1", 
                     "text": "CGV 영화관람권", 
                     "price": "13,000원"
@@ -57,7 +57,7 @@
             "title": "기프트카드",
             "list": [
                 {
-                    "src": "images/giftcard.jpg", 
+                    "src": "https://img.cgv.co.kr/GiftStore/Product/Pc/List/15814124358590.jpg", 
                     "alt": "giftcard1", 
                     "text": "PANCONNI A형", 
                     "price": "금액충전형"
